@@ -1,4 +1,4 @@
-MIT License
+UVA License
 
 Copyright (c) 2022 Packt
 
