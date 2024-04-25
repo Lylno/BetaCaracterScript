@@ -36,25 +36,3 @@ With the following software and hardware list you can run all code files present
 | -------- | ------------------------------------| -----------------------------------|
 | 1-20        | blender                    | Windows, Mac OS X, and Linux (Any) |
 | 1-20        | unreal engine 5           | Windows, Mac OS X, and Linux (Any) |
-
-
-We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://packt.link/EjXGU).
-
-
-### Related products <Other books you may enjoy>
-* Game Development Projects with Unreal Engine [[Packt]](https://www.packtpub.com/product/game-development-projects-with-unreal-engine/9781800209220) [[Amazon]](https://www.amazon.com/dp/1800209223)
-
-* Blueprints Visual Scripting for Unreal Engine 5 [[Packt]](https://www.packtpub.com/product/blueprints-visual-scripting-for-unreal-engine-5-third-edition/9781801811583) [[Amazon]](https://www.amazon.com/dp/180181158X)
-
-## Get to Know the Authors
-**Henk Venter**
-is a Senior 3D Character Artist with 22 years of experience in the 3D computer graphics industry. He is currently running his own 3D Art Production Studio. He was the Principal Character Artist at THQ Studio Australia and Senior Character Artist at Electronic Arts in Montreal, Canada. In the UK he worked for Microsoft’s Studio Rare, Sumo Digital, and Eurocom Entertainment. He has worked on multiple projects throughout his career such as Army of Two, Crackdown 3, Batman Begins, Kinect Sports: Rivals, Battleship, Megamind: Ultimate Showdown, Boogie to name a few.
-
-  **Wilhelm Ogterop**
-has 24 years of experience in the 3D computer graphics industry and has worked as a Character Animator and Lead Animator for several UK game studios. Raven Software, Deep Silver, Travelers Tales Fusion, Eurocom Entertainment Software, Instinct Games, Entrada Interactive, and Headfirst Productions are among the studios for which he has worked on-site and as a contractor. Throughout his career, he has worked on a variety of interesting projects, including Call of Duty: Black Ops III (2015), Call of Duty: infinite Warfare (2015), Homefront: The Revolution (2016), Deadspace Extraction, Miscreated, LEGO Movie Videogame, LEGO Legends of Chima, LEGO Lord of the Rings, LEGO City Undercover, Rio (Blue Sky Studios) Game, GoldenEye 007, Vancouver 2010 - Official Video Game of the Olympic Winter Games, James Bond: Quantum of Solace, The Mummy 3: Tomb of the Dragon Emperor, Pirates of the Caribbean: At World's End, Call of Cthulhu: Dark Corners of the Earth and other unpublished projects.
-
-
-### Download a free PDF
-
- <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
-<p align="center"> <a href="https://packt.link/free-ebook/9781801812443">https://packt.link/free-ebook/9781801812443 </a> </p>
